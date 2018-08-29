@@ -3,7 +3,7 @@
     "version": "1.0.0-alpha.0",
     "description": "Ponyfill's for some native ES2017+ built-in methods",
     "license": "MIT",
-    "repository": "https://github.com/futagoza/cm/tree/master/packages/@futagoza/core-js",
+    "repository": "https://github.com/futagoza/core-es/tree/master/packages/core-js",
     "author": "Futago-za Ryuu <futagoza.ryuu@gmail.com>",
     "keywords": [
         "ponyfill",
