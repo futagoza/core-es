@@ -1,0 +1,23 @@
+{
+    "name": "core-es",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "scripts": {
+        "lint": "gulp lint",
+        "test": "gulp test"
+    },
+    "devDependencies": {
+        "@types/node": "6",
+        "gulp": "~4.0.0",
+        "pump": "~3.0.0",
+        "gulp-eslint": "~5.0.0",
+        "eslint-config-futagozaryuu": "5",
+        "gulp-mocha": "~6.0.0",
+        "chai": "~4.1.0"
+    },
+    "engines": {
+        "node": ">= 6.0.0"
+    }
+}
