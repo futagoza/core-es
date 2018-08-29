@@ -1,0 +1,4 @@
+/backlog
+node_modules
+.eslintcache
+/*.log
