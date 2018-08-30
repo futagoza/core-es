@@ -1,0 +1,19 @@
+{
+    "name": "@core-es/util",
+    "version": "0.1.0",
+    "main": "index.js",
+    "engines": {
+        "node": ">= 6"
+    },
+    "repository": "https://github.com/futagoza/core-es/tree/master/packages/util",
+    "author": "Futago-za Ryuu <futagoza.ryuu@gmail.com>",
+    "description": "Contains helpers used by core-es packages",
+    "keywords": [
+        "core-es",
+        "helpers",
+        "utility",
+        "utilities",
+        "polyfill"
+    ],
+    "license": "MIT"
+}
