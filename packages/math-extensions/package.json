@@ -1,0 +1,28 @@
+{
+    "name": "@core-es/math-extensions",
+    "version": "0.0.0",
+    "description": "Implementation of the Math Extensions Proposal by https://github.com/rwaldron",
+    "license": "MIT",
+    "repository": "https://github.com/futagoza/core-es/tree/master/packages/math-extensions",
+    "author": "Futago-za Ryuu <futagoza.ryuu@gmail.com>",
+    "keywords": [
+        "ponyfill",
+        "pollyfill",
+        "esnext",
+        "stage-1",
+        "math",
+        "Math.clamp",
+        "Math.DEG_PER_RAD",
+        "Math.degrees",
+        "Math.fscale",
+        "Math.RAD_PER_DEG",
+        "Math.radians",
+        "Math.scale"
+    ],
+    "dependencies": {
+        "@core-es/util": "~0.1.0"
+    },
+    "engines": {
+        "node": ">= 6"
+    }
+}
