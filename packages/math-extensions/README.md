@@ -1,4 +1,4 @@
-This package contains implementations of methods in the [Math Extensions Proposal](https://github.com/rwaldron/proposal-math-extensions).
+This package contains implementations of methods and constants in the [Math Extensions Proposal](https://github.com/rwaldron/proposal-math-extensions).
 
 # api
 
@@ -12,7 +12,7 @@ Clamp a number.
 
 # polyfill
 
-You can polyfill each of the above methods by importing it's `*/polyfill` module.
+You can polyfill each of the above methods and constants by importing it's `*/polyfill` module.
 
 For example, to polyfill `Math.clamp`, you import: _@core-es/math-extensions/clamp/polyfill_
 
