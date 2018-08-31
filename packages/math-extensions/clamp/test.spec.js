@@ -1,7 +1,7 @@
 "use strict";
 
 const { expect } = require( "chai" );
-const clamp = require( "../clamp" );
+const clamp = require( "./index" );
 
 describe( "@core-es/math-extensions/clamp", () => {
 
