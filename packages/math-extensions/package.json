@@ -1,6 +1,6 @@
 {
     "name": "@core-es/math-extensions",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "main": "index.js",
     "description": "Implementation of the Math Extensions Proposal by https://github.com/rwaldron",
     "license": "MIT",
