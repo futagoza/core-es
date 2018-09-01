@@ -38,6 +38,12 @@ Math.scale(x: number, inLow: number, inHigh: number, outLow: number, outHigh: nu
 Math.fscale(x: number, inLow: number, inHigh: number, outLow: number, outHigh: number) => number
 ```
 
+### @core-es/math-extensions/radians
+
+```typescript
+Math.radians(degrees: number) => number
+```
+
 # polyfill
 
 You can polyfill each of the above methods and constants by importing it's `*/polyfill` module.
