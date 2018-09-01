@@ -32,6 +32,12 @@ A Number value of approximately `57.29577951308232`.
 Math.scale(x: number, inLow: number, inHigh: number, outLow: number, outHigh: number) => number
 ```
 
+### @core-es/math-extensions/fscale
+
+```typescript
+Math.fscale(x: number, inLow: number, inHigh: number, outLow: number, outHigh: number) => number
+```
+
 # polyfill
 
 You can polyfill each of the above methods and constants by importing it's `*/polyfill` module.
