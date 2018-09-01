@@ -26,6 +26,12 @@ Math.RAD_PER_DEG: number
 
 A Number value of approximately `57.29577951308232`.
 
+### @core-es/math-extensions/scale
+
+```typescript
+Math.scale(x: number, inLow: number, inHigh: number, outLow: number, outHigh: number) => number
+```
+
 # polyfill
 
 You can polyfill each of the above methods and constants by importing it's `*/polyfill` module.
