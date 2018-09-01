@@ -16,7 +16,15 @@ Clamp a number.
 Math.DEG_PER_RAD: number
 ```
 
-A Number value of approximately 0.0174532925199432.
+A Number value of approximately `0.0174532925199432`.
+
+### @core-es/math-extensions/RAD_PER_DEG
+
+```typescript
+Math.RAD_PER_DEG: number
+```
+
+A Number value of approximately `57.29577951308232`.
 
 # polyfill
 
