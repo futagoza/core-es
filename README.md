@@ -1,4 +1,4 @@
-[![Build status](https://img.shields.io/travis/futagoza/cm.svg)](https://travis-ci.org/futagoza/cm)
+[![Travis](https://img.shields.io/travis/com/futagoza/core-es.svg)](https://travis-ci.com/futagoza/core-es)
 [![License](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/MIT)
 
 My own collection of ponyfills and polyfills for ES2017+ usable in [Node.js v6+](https://nodejs.org/en/blog/release/v6.0.0/) environments, with a selected subset of these packages usable in most browsers via [Babel](https://babeljs.io/) and [package bundlers](#package-bundlers). 
