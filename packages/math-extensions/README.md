@@ -10,6 +10,14 @@ Math.clamp(x: number, lower: number, upper: number) => number
 
 Clamp a number.
 
+### @core-es/math-extensions/DEG_PER_RAD
+
+```typescript
+Math.DEG_PER_RAD: number
+```
+
+A Number value of approximately 0.0174532925199432.
+
 # polyfill
 
 You can polyfill each of the above methods and constants by importing it's `*/polyfill` module.
