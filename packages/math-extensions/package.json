@@ -1,11 +1,13 @@
 {
     "name": "@core-es/math-extensions",
     "version": "0.0.0",
+    "main": "index.js",
     "description": "Implementation of the Math Extensions Proposal by https://github.com/rwaldron",
     "license": "MIT",
     "repository": "https://github.com/futagoza/core-es/tree/master/packages/math-extensions",
     "author": "Futago-za Ryuu <futagoza.ryuu@gmail.com>",
     "keywords": [
+        "core-es",
         "ponyfill",
         "pollyfill",
         "esnext",
